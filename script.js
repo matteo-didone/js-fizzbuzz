@@ -1,7 +1,7 @@
 //Create a variable to store the <ul> element of the HTML
 const ulElement = document.querySelector('ul'); //querySelector() is a method that returns the first element that matches a specified CSS selector in the document.
 
-//Create a for loop that will iterate from 0 to 100
+//Create a for loop that will iterate from 1 to 100
 for(let i = 1; i < 101; i++)
 {
     //Create a variable to store the <li> element of the HTML, that I'm going to add to the document
